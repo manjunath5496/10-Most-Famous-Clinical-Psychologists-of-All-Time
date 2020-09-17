@@ -106,5 +106,20 @@
  
 
 </ul>
+</br>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/Alfred_Kinsey">Alfred Kinsey</a></strong></p>
+<p><strong>Alfred Charles Kinsey</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="'k' in 'kind'">k</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'n' in 'nigh'">n</span><span title="'z' in 'zoom'">z</span><span title="/i/: 'y' in 'happy'">i</span>/</a></span></span>; June 23, 1894 &ndash; August 25, 1956) was an American&nbsp;<a title="Biologist" href="https://en.wikipedia.org/wiki/Biologist">biologist</a>, professor of&nbsp;<a title="Entomology" href="https://en.wikipedia.org/wiki/Entomology">entomology</a>&nbsp;and&nbsp;<a title="Zoology" href="https://en.wikipedia.org/wiki/Zoology">zoology</a>, and&nbsp;<a class="mw-redirect" title="Sexologist" href="https://en.wikipedia.org/wiki/Sexologist">sexologist</a>&nbsp;who, in 1947, founded the Institute for Sex Research at&nbsp;<a class="mw-redirect" title="Indiana University (Bloomington)" href="https://en.wikipedia.org/wiki/Indiana_University_(Bloomington)">Indiana University</a>, previously known as the&nbsp;<a class="mw-redirect" title="Kinsey Institute for Research in Sex, Gender, and Reproduction" href="https://en.wikipedia.org/wiki/Kinsey_Institute_for_Research_in_Sex,_Gender,_and_Reproduction">Kinsey Institute for Research in Sex, Gender, and Reproduction</a>. He is best known for writing&nbsp;<em>Sexual Behavior in the Human Male</em>&nbsp;(1948) and&nbsp;<em>Sexual Behavior in the Human Female</em>&nbsp;(1953), also known as the&nbsp;<a title="Kinsey Reports" href="https://en.wikipedia.org/wiki/Kinsey_Reports">Kinsey Reports</a>, as well as the&nbsp;<a title="Kinsey scale" href="https://en.wikipedia.org/wiki/Kinsey_scale">Kinsey scale</a>. Kinsey's research on&nbsp;<a title="Human sexuality" href="https://en.wikipedia.org/wiki/Human_sexuality">human sexuality</a>, foundational to the field of&nbsp;<a title="Sexology" href="https://en.wikipedia.org/wiki/Sexology">sexology</a>, provoked controversy in the 1940s and 1950s. His work has influenced social and cultural values in the United States as well as internationally.</p>
+</br>
+
+
+
+
+
+
+
+
+
+
 
 
