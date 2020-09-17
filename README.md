@@ -170,4 +170,15 @@
  
 
 </ul>
+</br>
+<p><strong><a href="https://en.wikipedia.org/wiki/Albert_Ellis">Albert Ellis</a></strong></p>
+<p><strong>Albert Ellis</strong>&nbsp;(September 27, 1913 &ndash; July 24, 2007) was an American&nbsp;<a title="Psychologist" href="https://en.wikipedia.org/wiki/Psychologist">psychologist</a>&nbsp;who in 1955 developed&nbsp;<a class="mw-redirect" title="Rational Emotive Behavior Therapy" href="https://en.wikipedia.org/wiki/Rational_Emotive_Behavior_Therapy">Rational Emotive Behavior Therapy</a>&nbsp;(REBT). He held MA and PhD degrees in&nbsp;<a title="Clinical psychology" href="https://en.wikipedia.org/wiki/Clinical_psychology">clinical psychology</a>&nbsp;from&nbsp;<a title="Columbia University" href="https://en.wikipedia.org/wiki/Columbia_University">Columbia University</a>&nbsp;and the&nbsp;<a title="American Board of Professional Psychology" href="https://en.wikipedia.org/wiki/American_Board_of_Professional_Psychology">American Board of Professional Psychology</a>&nbsp;(ABPP). He also founded and was the President of the New York City-based Albert Ellis Institute for decades.&nbsp;He is generally considered to be one of the originators of the&nbsp;<a title="Cognitive revolution" href="https://en.wikipedia.org/wiki/Cognitive_revolution">cognitive revolutionary</a>&nbsp;paradigm shift in&nbsp;<a title="Psychotherapy" href="https://en.wikipedia.org/wiki/Psychotherapy">psychotherapy</a>&nbsp;and an early proponent of&nbsp;<a title="Cognitive behavioral therapy" href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">cognitive-behavioral therapies</a>.</p>
+<p>Based on a 1982 professional survey of US and Canadian psychologists, he was considered the second most influential psychotherapist in history (<a title="Carl Rogers" href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a>&nbsp;ranked first in the survey;&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>&nbsp;was ranked third).&nbsp;<em><a title="Psychology Today" href="https://en.wikipedia.org/wiki/Psychology_Today">Psychology Today</a></em>&nbsp;noted, "No individual&mdash;not even Freud himself&mdash;has had a greater impact on modern psychotherapy."</p>
+</br>
+
+
+
+
+
+
 
