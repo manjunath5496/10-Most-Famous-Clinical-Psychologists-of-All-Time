@@ -148,5 +148,26 @@
 <p>According to&nbsp;<a title="Ernst von Glasersfeld" href="https://en.wikipedia.org/wiki/Ernst_von_Glasersfeld">Ernst von Glasersfeld</a>, Jean Piaget was "the great pioneer of the&nbsp;<a class="mw-redirect" title="Constructivism (learning theory)" href="https://en.wikipedia.org/wiki/Constructivism_(learning_theory)">constructivist theory of knowing</a>."&nbsp;However, his ideas did not become widely popularized until the 1960s.&nbsp;This then led to the emergence of the study of development as a major sub-discipline in psychology.&nbsp;By the end of the 20th century, Piaget was second only to&nbsp;<a title="B. F. Skinner" href="https://en.wikipedia.org/wiki/B._F._Skinner">B. F. Skinner</a>&nbsp;as the most cited psychologist of that era.</p>
 </br>
 
+<ul>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(37).pdf" style="text-decoration:none;">Jean Piaget: Selected Works (Volume 6)</a></li>
+ 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(38).pdf" style="text-decoration:none;">The Moral Judgement of the Child</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(39).pdf" style="text-decoration:none;">The Growth of Logical Thinking from Childhood to Adolescence</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(40).pdf" style="text-decoration:none;">The Construction of Reality in the Child</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(41).pdf" style="text-decoration:none;">The Psychology of the Child</a></li> 
+ 
+ 
+ 
+ 
+ 
+
+</ul>
 
