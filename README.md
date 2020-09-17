@@ -198,7 +198,9 @@
 <ul>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(47).pdf" style="text-decoration:none;">The Collected Works of Albert Bandura (Part I)</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(48).pdf" style="text-decoration:none;">The Collected Works of Albert Bandura (Part II)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(49).pdf" style="text-decoration:none;">The Collected Works of Albert Bandura (Part III)</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(50).pdf" style="text-decoration:none;">The Collected Works of Albert Bandura (Part IV)</a></li>  
 </ul>
 
 
