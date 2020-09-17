@@ -176,9 +176,17 @@
 <p>Based on a 1982 professional survey of US and Canadian psychologists, he was considered the second most influential psychotherapist in history (<a title="Carl Rogers" href="https://en.wikipedia.org/wiki/Carl_Rogers">Carl Rogers</a>&nbsp;ranked first in the survey;&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>&nbsp;was ranked third).&nbsp;<em><a title="Psychology Today" href="https://en.wikipedia.org/wiki/Psychology_Today">Psychology Today</a></em>&nbsp;noted, "No individual&mdash;not even Freud himself&mdash;has had a greater impact on modern psychotherapy."</p>
 </br>
 
+<ul>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(42).pdf" style="text-decoration:none;">Anger: How to Live with and without It</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(43).pdf" style="text-decoration:none;"> Overcoming Resistance: A Rational Emotive Behavior Therapy Integrated Approach</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(44).pdf" style="text-decoration:none;"> Personality Theories: Critical Perspectives</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(45).pdf" style="text-decoration:none;"> The Myth of Self-Esteem: How Rational Emotive Behavior Therapy Can Change Your Life Forever</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(46).pdf" style="text-decoration:none;"> The Practice of Rational Emotive Behavior Therapy</a></li>
+ 
+</ul>
 
-
+</br>
 
 
 
