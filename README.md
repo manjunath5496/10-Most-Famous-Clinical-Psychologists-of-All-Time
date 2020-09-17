@@ -205,3 +205,7 @@
 
 
 </br>
+<p><a href="https://en.wikipedia.org/wiki/Kay_Redfield_Jamison">Kay Redfield Jamison</a></p>
+<p><strong>Kay Redfield Jamison</strong>&nbsp;(born June 22, 1946) is an American&nbsp;<a title="Clinical psychology" href="https://en.wikipedia.org/wiki/Clinical_psychology">clinical psychologist</a>&nbsp;and writer. Her work has centered on&nbsp;<a title="Bipolar disorder" href="https://en.wikipedia.org/wiki/Bipolar_disorder">bipolar disorder</a>, which she has had since her early adulthood. She holds the post of the Dalio Professor in Mood Disorders and Psychiatry at&nbsp;<a class="mw-redirect" title="Johns Hopkins University School of Medicine" href="https://en.wikipedia.org/wiki/Johns_Hopkins_University_School_of_Medicine">Johns Hopkins University School of Medicine</a>&nbsp;and is an Honorary Professor of&nbsp;<a title="English studies" href="https://en.wikipedia.org/wiki/English_studies">English</a>&nbsp;at the&nbsp;<a title="University of St Andrews" href="https://en.wikipedia.org/wiki/University_of_St_Andrews">University of St Andrews</a>.</p>
+
+</br>
