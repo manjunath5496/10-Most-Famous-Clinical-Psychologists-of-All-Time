@@ -54,3 +54,26 @@
 
 </br>
 
+<ul>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(18).pdf" style="text-decoration:none;">Baby in a Box</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(19).pdf" style="text-decoration:none;">The Generic Nature of the Concepts of Stimulus and Response</a></li>
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(20).pdf" style="text-decoration:none;">Has Gertrude Stein a Secret</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(21).pdf" style="text-decoration:none;">New Methods and New Aims in Teaching</a></li>
+ 
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(22).pdf" style="text-decoration:none;">Special Article: Russia, 1961</a></li>
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(23).pdf" style="text-decoration:none;">Non-punitive Society</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(21).pdf" style="text-decoration:none;"> Teaching Machines</a></li>
+ 
+ 
+</ul>
+
+</br>
