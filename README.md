@@ -131,7 +131,13 @@
 </br>
 
 
+<ul>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(34).pdf" style="text-decoration:none;">Gandhi's Truth: On the Origins of Militant Nonviolence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(35).pdf" style="text-decoration:none;">Identity: Youth and Crisis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(36).pdf" style="text-decoration:none;">The Life Cycle Completed</a></li>
+
+</ul>
 
 
 
