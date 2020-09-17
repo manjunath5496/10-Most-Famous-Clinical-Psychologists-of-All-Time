@@ -40,9 +40,17 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(12).pdf" style="text-decoration:none;">The Collected Works of Carl Gustav Jung: Volume 18</a></li>  
 
 
- 
- 
- 
- 
-
 </ul>
+
+</br>
+
+
+<p><strong><a href="https://en.wikipedia.org/wiki/B._F._Skinner">B. F. Skinner</a></strong></p>
+<p><strong>Burrhus Frederic Skinner</strong>&nbsp;(March 20, 1904 &ndash; August 18, 1990) was an American&nbsp;<a title="Psychologist" href="https://en.wikipedia.org/wiki/Psychologist">psychologist</a>,&nbsp;<a class="mw-redirect" title="Behaviorist" href="https://en.wikipedia.org/wiki/Behaviorist">behaviorist</a>, author, inventor, and&nbsp;<a title="Social philosophy" href="https://en.wikipedia.org/wiki/Social_philosophy">social philosopher</a>.&nbsp;He was a professor of psychology at&nbsp;<a title="Harvard University" href="https://en.wikipedia.org/wiki/Harvard_University">Harvard University</a>&nbsp;from 1958 until his retirement in 1974.</p>
+<p>Considering&nbsp;<a title="Free will" href="https://en.wikipedia.org/wiki/Free_will">free will</a>&nbsp;to be an illusion, Skinner saw human action as dependent on consequences of previous actions, a theory he would articulate as the&nbsp;<em>principle of&nbsp;<a title="Reinforcement" href="https://en.wikipedia.org/wiki/Reinforcement">reinforcement</a></em>: If the consequences to an action are bad, there is a high chance the action will not be repeated; if the consequences are good, the probability of the action being repeated becomes stronger.</p>
+<p>Skinner developed&nbsp;<a title="Applied behavior analysis" href="https://en.wikipedia.org/wiki/Applied_behavior_analysis">behavior analysis</a>, especially the philosophy of&nbsp;<em><a title="Radical behaviorism" href="https://en.wikipedia.org/wiki/Radical_behaviorism">radical behaviorism</a></em>,&nbsp;and founded the&nbsp;<a title="Experimental analysis of behavior" href="https://en.wikipedia.org/wiki/Experimental_analysis_of_behavior">experimental analysis of behavior</a>, a school of experimental research psychology. He also used&nbsp;<a title="Operant conditioning" href="https://en.wikipedia.org/wiki/Operant_conditioning">operant conditioning</a>&nbsp;to strengthen behavior, considering the&nbsp;<a title="Rate of response" href="https://en.wikipedia.org/wiki/Rate_of_response">rate of response</a>&nbsp;to be the most effective measure of response strength. To study operant conditioning, he invented the&nbsp;<a title="Operant conditioning chamber" href="https://en.wikipedia.org/wiki/Operant_conditioning_chamber">operant conditioning chamber</a>&nbsp;(aka the Skinner Box),&nbsp;and to measure rate he invented the cumulative recorder. Using these tools, he and&nbsp;<a title="Charles Ferster" href="https://en.wikipedia.org/wiki/Charles_Ferster">Charles Ferster</a>&nbsp;produced Skinner's most influential experimental work, outlined in their book&nbsp;<em>Schedules of Reinforcement</em>&nbsp;(1957).</p>
+<p>Skinner was a prolific author, having published 21&nbsp;books and 180&nbsp;articles.&nbsp;He imagined the application of his ideas to the design of a human community in his utopian novel,&nbsp;<em><a title="Walden Two" href="https://en.wikipedia.org/wiki/Walden_Two">Walden Two</a></em>&nbsp;(1948),&nbsp;while his analysis of human behavior culminated in his work,&nbsp;<em><a title="Verbal Behavior" href="https://en.wikipedia.org/wiki/Verbal_Behavior">Verbal Behavior</a></em>.</p>
+<p>Contemporary academia considers Skinner, along with&nbsp;<a title="John B. Watson" href="https://en.wikipedia.org/wiki/John_B._Watson">John B. Watson</a>&nbsp;and&nbsp;<a title="Ivan Pavlov" href="https://en.wikipedia.org/wiki/Ivan_Pavlov">Ivan Pavlov</a>, a pioneer of modern&nbsp;<a title="Behaviorism" href="https://en.wikipedia.org/wiki/Behaviorism">behaviorism</a>. Accordingly, a June 2002 survey listed Skinner as the most influential psychologist of the 20th century.</p>
+
+</br>
+
