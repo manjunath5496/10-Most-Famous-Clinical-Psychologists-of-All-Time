@@ -123,6 +123,12 @@
  
 </ul>
 
+</br>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/Erik_Erikson">Erik Erikson</a></strong></p>
+<p><strong>Erik Homburger Erikson</strong>&nbsp;(born&nbsp;<strong>Erik Salomonsen</strong>; 15 June 1902 &ndash; 12 May 1994) was a&nbsp;<a title="German Americans" href="https://en.wikipedia.org/wiki/German_Americans">German-American</a>&nbsp;<a title="Developmental psychology" href="https://en.wikipedia.org/wiki/Developmental_psychology">developmental psychologist</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Psychoanalyst" href="https://en.wikipedia.org/wiki/Psychoanalyst">psychoanalyst</a>&nbsp;known for his&nbsp;<a title="Erikson's stages of psychosocial development" href="https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development">theory on psychological development</a>&nbsp;of human beings. He may be most famous for coining the phrase&nbsp;<em><a title="Identity crisis" href="https://en.wikipedia.org/wiki/Identity_crisis">identity crisis</a></em>. His son,&nbsp;<a title="Kai T. Erikson" href="https://en.wikipedia.org/wiki/Kai_T._Erikson">Kai T. Erikson</a>, is a noted American&nbsp;<a class="mw-redirect" title="Sociologist" href="https://en.wikipedia.org/wiki/Sociologist">sociologist</a>.</p>
+<p>Despite lacking a bachelor's degree, Erikson served as a&nbsp;<a title="Professor" href="https://en.wikipedia.org/wiki/Professor">professor</a>&nbsp;at prominent institutions, including&nbsp;<a class="mw-redirect" title="Harvard" href="https://en.wikipedia.org/wiki/Harvard">Harvard</a>,&nbsp;<a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a>,&nbsp;and&nbsp;<a class="mw-redirect" title="Yale" href="https://en.wikipedia.org/wiki/Yale">Yale</a>. A&nbsp;<em><a title="Review of General Psychology" href="https://en.wikipedia.org/wiki/Review_of_General_Psychology">Review of General Psychology</a></em>&nbsp;survey, published in 2002, ranked Erikson as the 12th most cited psychologist of the 20th century.</p>
+</br>
 
 
 
