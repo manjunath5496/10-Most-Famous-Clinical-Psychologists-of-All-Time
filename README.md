@@ -77,3 +77,34 @@
 </ul>
 
 </br>
+<p><strong><a href="https://en.wikipedia.org/wiki/Carl_Rogers#Selected_works_by_Carl_Rogers">Carl Rogers</a></strong></p>
+<p><strong>Carl Ransom Rogers</strong>&nbsp;(January 8, 1902 &ndash; February 4, 1987) was an&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">American</a>&nbsp;<a title="Psychologist" href="https://en.wikipedia.org/wiki/Psychologist">psychologist</a>&nbsp;and among the founders of the&nbsp;<a title="Humanistic psychology" href="https://en.wikipedia.org/wiki/Humanistic_psychology">humanistic approach</a>&nbsp;(or client-centered approach) to&nbsp;<a title="Psychology" href="https://en.wikipedia.org/wiki/Psychology">psychology</a>. Rogers is widely considered to be one of the founding fathers of&nbsp;<a title="Psychotherapy" href="https://en.wikipedia.org/wiki/Psychotherapy">psychotherapy</a>&nbsp;research and was honored for his pioneering research with the Award for Distinguished Scientific Contributions by the&nbsp;<a title="American Psychological Association" href="https://en.wikipedia.org/wiki/American_Psychological_Association">American Psychological Association</a>&nbsp;(APA) in 1956.</p>
+<p>The&nbsp;<a title="Person-centered therapy" href="https://en.wikipedia.org/wiki/Person-centered_therapy">person-centered approach</a>, his own unique approach to understanding personality and human relationships, found wide application in various domains such as psychotherapy and counseling (<a class="mw-redirect" title="Person-centered psychotherapy" href="https://en.wikipedia.org/wiki/Person-centered_psychotherapy">client-centered therapy</a>),&nbsp;<a title="Education" href="https://en.wikipedia.org/wiki/Education">education</a>&nbsp;(<a class="mw-redirect" title="Student-centered learning" href="https://en.wikipedia.org/wiki/Student-centered_learning">student-centered learning</a>), organizations, and other group settings. For his professional work he was bestowed the Award for Distinguished Professional Contributions to Psychology by the&nbsp;<a title="American Psychological Association" href="https://en.wikipedia.org/wiki/American_Psychological_Association">APA</a>&nbsp;in 1972. In a study by Steven J. Haggbloom and colleagues using six criteria such as citations and recognition, Rogers was found to be the sixth most eminent psychologist of the 20th century and second, among clinicians,&nbsp;only to&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>.&nbsp;Based on a 1982 survey among 422 respondents of US and Canadian psychologists, he was considered the first most influential psychotherapist in history (<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>&nbsp;was ranked third).</p>
+
+</br>
+
+<ul>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(25).pdf" style="text-decoration:none;"> Transcripts of Carl Rogers' Therapy Sessions</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(26).pdf" style="text-decoration:none;"> The Clinical Treatment of the Problem Child</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(27).pdf" style="text-decoration:none;"> Counseling and Psychotherapy: Newer Concepts in Practice</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(28).pdf" style="text-decoration:none;"> A Theory of Therapy, Personality and Interpersonal Relationships as Developed in the Client-centered Framework</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(29).pdf" style="text-decoration:none;"> On Becoming a Person: A Therapist's View of Psychotherapy</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(30).pdf" style="text-decoration:none;"> The Necessary and Sufficient Conditions of Therapeutic Personality Change</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</ul>
+
+
