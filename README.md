@@ -209,3 +209,33 @@
 <p><strong>Kay Redfield Jamison</strong>&nbsp;(born June 22, 1946) is an American&nbsp;<a title="Clinical psychology" href="https://en.wikipedia.org/wiki/Clinical_psychology">clinical psychologist</a>&nbsp;and writer. Her work has centered on&nbsp;<a title="Bipolar disorder" href="https://en.wikipedia.org/wiki/Bipolar_disorder">bipolar disorder</a>, which she has had since her early adulthood. She holds the post of the Dalio Professor in Mood Disorders and Psychiatry at&nbsp;<a class="mw-redirect" title="Johns Hopkins University School of Medicine" href="https://en.wikipedia.org/wiki/Johns_Hopkins_University_School_of_Medicine">Johns Hopkins University School of Medicine</a>&nbsp;and is an Honorary Professor of&nbsp;<a title="English studies" href="https://en.wikipedia.org/wiki/English_studies">English</a>&nbsp;at the&nbsp;<a title="University of St Andrews" href="https://en.wikipedia.org/wiki/University_of_St_Andrews">University of St Andrews</a>.</p>
 
 </br>
+
+
+<ul>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(51).pdf" style="text-decoration:none;">An Unquiet Mind</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(52).pdf" style="text-decoration:none;">Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(53).pdf" style="text-decoration:none;"> Exuberance: The Passion for Life</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(54).pdf" style="text-decoration:none;">Touched with Fire: Manic-Depressive Illness and the Artistic Temperament</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(55).pdf" style="text-decoration:none;">Night Falls Fast: Understanding Suicide</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(56).pdf" style="text-decoration:none;"> Nothing Was the Same: A Memoir</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/10-Most-Famous-Clinical-Psychologists-of-All-Time/blob/master/clin(57).pdf" style="text-decoration:none;"> Genetics Of Manic Depressive Illness</a></li>
+ 
+ 
+ 
+ 
+
+</ul>
+
+
+</br>
+
+
+
+
+
+
+
